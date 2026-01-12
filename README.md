@@ -1,22 +1,14 @@
-# 🚀 Logistic Regression Project
+<div align='center'>
+  <img style="width:30%" src='https://github.com/user-attachments/assets/c620253b-0e2a-4ff2-b4f3-50f70eecf5e2'/>
+</div>
 
-## 🔍 Predicting Ad Clicks Using Machine Learning
+
+<div align='center'> 
+  <h1> 🔍 Predicting Ad Clicks Using Machine Learning </h1> 
+</div>
+
 
 This project applies **Logistic Regression** to predict whether an internet user will click on an advertisement. By analyzing key user behavior metrics like daily time spent on a site, age, area income, and internet usage, we develop a predictive model that provides valuable insights for targeted advertising strategies.
-
----
-
-## 📌 Table of Contents
-
-- [📂 Project Overview](#-project-overview)
-- [📊 Dataset Information](#-dataset-information)
-- [📁 Project Structure](#-project-structure)
-- [📈 Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
-- [⚙️ Data Preprocessing](#-data-preprocessing)
-- [🤖 Model Development](#-model-development)
-- [📝 Model Evaluation](#-model-evaluation)
-- [📌 Key Visualizations](#-key-visualizations)
-- [🔚 Conclusion](#-conclusion)
 
 ---
 
@@ -29,7 +21,6 @@ This project applies **Logistic Regression** to predict whether an internet user
 
 Understanding user behavior in digital marketing is crucial for optimizing advertisements. This project builds a logistic regression model to classify users based on whether they clicked on an ad, helping businesses tailor their marketing efforts effectively.
 
-🔗 **GitHub Repository:** [Project Link](https://github.com/27abhishek27/Logistic-Regression-Project)
 
 ---
 

@@ -55,11 +55,11 @@ Before building the model, we analyze the data to uncover patterns and relations
 
 📌 **Visualizations Used:**
 
-- ![Histogram of the Age](https://github.com/27abhishek27/Logistic-Regression-Project/blob/main/Logistic%20Regression%20Project%20Png/histogram%20of%20the%20age.png)
-- ![Jointplot showing Area Income versus Age](https://github.com/27abhishek27/Logistic-Regression-Project/blob/main/Logistic%20Regression%20Project%20Png/jointplot%20showing%20area%20income%20versus%20age.png)
-- ![Jointplot showing the kde distributions of Daily Time spent on site vs. Age](https://github.com/27abhishek27/Logistic-Regression-Project/blob/main/Logistic%20Regression%20Project%20Png/jointplot%20showing%20the%20kde.png)
-- ![Jointplot of 'Daily Time Spent on Site' vs. 'Daily Internet Usage'](https://github.com/27abhishek27/Logistic-Regression-Project/blob/main/Logistic%20Regression%20Project%20Png/jointplot%20of%20daily%20time%20spent%20on%20site%20vs%20daily%20internet%20usage.png)
-- ![Pairplot with the hue defined by the 'Clicked on Ad' column feature](https://github.com/27abhishek27/Logistic-Regression-Project/blob/main/Logistic%20Regression%20Project%20Png/pairplot%20with%20the%20hue.png)
+- ![Histogram of the Age](https://github.com/Aashishh1/Logistic-Regression-Project/blob/main/Logistic%20Regression%20Project%20Png/histogram%20of%20the%20age.png)
+- ![Jointplot showing Area Income versus Age](https://github.com/Aashishh1/Logistic-Regression-Project/blob/main/Logistic%20Regression%20Project%20Png/jointplot%20showing%20area%20income%20versus%20age.png)
+- ![Jointplot showing the kde distributions of Daily Time spent on site vs. Age](https://github.com/Aashishh1/Logistic-Regression-Project/blob/main/Logistic%20Regression%20Project%20Png/jointplot%20showing%20the%20kde.png)
+- ![Jointplot of 'Daily Time Spent on Site' vs. 'Daily Internet Usage'](https://github.com/Aashishh1/Logistic-Regression-Project/blob/main/Logistic%20Regression%20Project%20Png/jointplot%20of%20daily%20time%20spent%20on%20site%20vs%20daily%20internet%20usage.png)
+- ![Pairplot with the hue defined by the 'Clicked on Ad' column feature](https://github.com/Aashishh1/Logistic-Regression-Project/blob/main/Logistic%20Regression%20Project%20Png/pairplot%20with%20the%20hue.png)
 
 ---
 
